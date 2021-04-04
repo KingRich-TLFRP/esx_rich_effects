@@ -1,6 +1,3 @@
-# esx_rich_effects
-esx_rich_effects
-
 Welcome back dopo much tempo! Vi ero mancato eh...
 By KingRich, italian scripter. Thanks for chi lo installa nel proprio server.
 
