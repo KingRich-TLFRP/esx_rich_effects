@@ -3,7 +3,7 @@
 ESX              = nil
 local PlayerData = {}
 
-local coord = {x = 147.008, y = 1156.853, z = 228.394}
+local cord = {x = 147.008, y = 1156.853, z = 228.394}
 
 local Position1 = {
     {x = 181.942, y = 1163.798, z = 225.594, rootX = 0.0, rootY = 0.0, rootZ = 0.0, scale = 1.0},
